@@ -6,4 +6,4 @@
 
 ## URL
 
-https://kitamura-hub.github.io/digital_clock.github.io/
+https://kitamuraDev.github.io/digital_clock.github.io/
